@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	font-family: "Calibri";
+}
+
+.inputForm
+{
+	display: none;
+	font-weight: bold;
+}
+
+.dynamicBr
+{
+    display: none;
+}

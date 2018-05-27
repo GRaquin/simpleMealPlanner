@@ -13,7 +13,7 @@ import java.io.IOException;
 public class ControllerServlet extends HttpServlet {
 
   private static final long serialVersionUID = 1L;
-  private static final String USER_VUE = "/jsp/userVue.jsp";
+  private static final String USER_VUE = "/webPages/userVue.jsp";
 
   /**
    * @see HttpServlet#HttpServlet()

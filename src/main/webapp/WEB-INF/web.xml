@@ -14,7 +14,7 @@
 
     <servlet-mapping>
         <servlet-name>ControllerServlet</servlet-name>
-        <url-pattern>/toto/*</url-pattern>
+        <url-pattern>/controllerServlet/*</url-pattern>
     </servlet-mapping>
 
 </web-app>
